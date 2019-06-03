@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelloSdk", "TelloSdk\TelloSdk.csproj", "{A3A227DB-36BB-412A-B0D8-28A9531FA5B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testApp", "testApp\testApp.csproj", "{9E0B65D0-BEE2-42FC-B030-0CD965FB33AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelloApi", "TelloApi\TelloApi.csproj", "{1592FCB8-9E3F-4D3B-B415-B29CCF7F1160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A227DB-36BB-412A-B0D8-28A9531FA5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A227DB-36BB-412A-B0D8-28A9531FA5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A227DB-36BB-412A-B0D8-28A9531FA5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A227DB-36BB-412A-B0D8-28A9531FA5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0B65D0-BEE2-42FC-B030-0CD965FB33AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0B65D0-BEE2-42FC-B030-0CD965FB33AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0B65D0-BEE2-42FC-B030-0CD965FB33AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0B65D0-BEE2-42FC-B030-0CD965FB33AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1592FCB8-9E3F-4D3B-B415-B29CCF7F1160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1592FCB8-9E3F-4D3B-B415-B29CCF7F1160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1592FCB8-9E3F-4D3B-B415-B29CCF7F1160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1592FCB8-9E3F-4D3B-B415-B29CCF7F1160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB2F13A-F6F7-4050-8E35-EBBA9654CA02}
+	EndGlobalSection
+EndGlobal

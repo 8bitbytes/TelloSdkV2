@@ -1,0 +1,17 @@
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\bin\Debug\netcoreapp2.1\TelloApi.deps.json
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\bin\Debug\netcoreapp2.1\TelloApi.runtimeconfig.json
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\bin\Debug\netcoreapp2.1\TelloApi.runtimeconfig.dev.json
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\bin\Debug\netcoreapp2.1\TelloApi.dll
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\bin\Debug\netcoreapp2.1\TelloApi.pdb
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\bin\Debug\netcoreapp2.1\TelloSdk.dll
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\bin\Debug\netcoreapp2.1\TelloSdk.pdb
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.csprojAssemblyReference.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.csproj.CoreCompileInputs.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.RazorAssemblyInfo.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.RazorAssemblyInfo.cs
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.AssemblyInfoInputs.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.AssemblyInfo.cs
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.RazorTargetAssemblyInfo.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.csproj.CopyComplete
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.dll
+C:\Users\phallock\source\repos\TelloSdk\TelloApi\obj\Debug\netcoreapp2.1\TelloApi.pdb

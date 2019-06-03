@@ -1,0 +1,9 @@
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\bin\Debug\netcoreapp2.1\TelloSdk.deps.json
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\bin\Debug\netcoreapp2.1\TelloSdk.dll
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\bin\Debug\netcoreapp2.1\TelloSdk.pdb
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\obj\Debug\netcoreapp2.1\TelloSdk.csprojAssemblyReference.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\obj\Debug\netcoreapp2.1\TelloSdk.csproj.CoreCompileInputs.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\obj\Debug\netcoreapp2.1\TelloSdk.AssemblyInfoInputs.cache
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\obj\Debug\netcoreapp2.1\TelloSdk.AssemblyInfo.cs
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\obj\Debug\netcoreapp2.1\TelloSdk.dll
+C:\Users\phallock\source\repos\TelloSdk\TelloSdk\obj\Debug\netcoreapp2.1\TelloSdk.pdb
